@@ -151,7 +151,7 @@ export const addExperience = (formData, navigate) => async dispatch => {
 // Add Education
 export const addEducation = (formData, navigate) => async dispatch => {
     try {
-        const res = await axios.put("api/profile/education", formData);
+        const res = await axios.put("/api/profile/education", formData);
 
         dispatch({
             type: UPDATE_PROFILE,
