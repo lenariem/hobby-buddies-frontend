@@ -1,7 +1,4 @@
 # Fullstack App(MERN) to connect people by different hobbies
-**to take a look please click this link:** 
-
-https://hobby-buddies-frontend.vercel.app/
 
 ## Backend Repo:
 https://github.com/lenariem/hobby-buddies-backend
